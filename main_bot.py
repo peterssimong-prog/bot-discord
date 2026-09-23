@@ -33,4 +33,4 @@ async def coin(ctx):
     await ctx.send("salio: "+ flip_coin())
 
 
-bot.run("MTU0OTU2MzM2OTc1OTk3MzQyNg.Gi5eWK.xJ1F0t-ASLYfERFnFx0th8euMR85T4cngQC73g")
+bot.run("")
